@@ -1,0 +1,371 @@
+,提出日時,問題,ユーザー,言語,得点,コード長,結果,実行時間,メモリ
+ABC007,2023-03-07 17:51:33,C - 幅優先探索,nzm_ort,Python (3.8.2),100,1145 Byte,AC,33 ms,9428 KB
+ABC032,2023-01-25 01:13:12,D - ナップサック問題,nzm_ort,PyPy3 (7.3.0),100,1471 Byte,AC,661 ms,233812 KB
+ABC032,2023-01-25 01:12:26,D - ナップサック問題,nzm_ort,Python (3.8.2),34,1471 Byte,TLE,2211 ms,203488 KB
+ABC032,2023-01-25 01:11:09,D - ナップサック問題,nzm_ort,Python (3.8.2),34,1788 Byte,WA,41 ms,10112 KB
+ABC032,2023-01-25 00:48:18,D - ナップサック問題,nzm_ort,Python (3.8.2),0,1125 Byte,RE,2251 ms,1716080 KB
+ABC032,2023-01-24 11:02:45,D - ナップサック問題,nzm_ort,PyPy3 (7.3.0),0,834 Byte,RE,2197 ms,3519484 KB
+ABC032,2023-01-23 23:33:18,D - ナップサック問題,nzm_ort,Python (3.8.2),0,821 Byte,RE,2210 ms,3503532 KB
+ABC032,2023-01-23 23:32:02,D - ナップサック問題,nzm_ort,Python (3.8.2),0,808 Byte,RE,2210 ms,3502916 KB
+ABC032,2023-01-23 23:29:42,D - ナップサック問題,nzm_ort,Python (3.8.2),0,810 Byte,RE,2210 ms,3503280 KB
+ABC032,2023-01-23 23:29:03,D - ナップサック問題,nzm_ort,PyPy3 (7.3.0),0,810 Byte,RE,2192 ms,3503560 KB
+ABC032,2023-01-23 23:28:42,D - ナップサック問題,nzm_ort,PyPy3 (7.3.0),0,808 Byte,RE,2177 ms,3500660 KB
+ABC088,2023-02-26 20:41:07,C - Takahashi's Information,nzm_ort,Python (3.8.2),300,781 Byte,AC,29 ms,9052 KB
+ABC099,2023-03-17 10:35:52,C - Strange Bank,nzm_ort,PyPy3 (7.3.0),300,373 Byte,AC,79 ms,74068 KB
+ABC099,2023-03-17 10:29:23,C - Strange Bank,nzm_ort,PyPy3 (7.3.0),300,373 Byte,AC,80 ms,73464 KB
+ABC114,2023-03-08 22:02:44,A - 753,nzm_ort,Python (3.8.2),100,84 Byte,AC,22 ms,9088 KB
+ABC114,2023-03-08 22:02:10,A - 753,nzm_ort,Python (3.8.2),0,84 Byte,WA,25 ms,8992 KB
+ABC114,2023-03-08 22:00:25,C - 755,nzm_ort,Python (3.8.2),300,636 Byte,AC,38 ms,9132 KB
+ABC118,2023-03-17 12:30:51,D - Match Matching,nzm_ort,PyPy3 (7.3.0),400,785 Byte,AC,73 ms,73308 KB
+ABC118,2023-03-17 12:29:28,D - Match Matching,nzm_ort,PyPy3 (7.3.0),0,757 Byte,RE,103 ms,73568 KB
+ABC118,2023-03-17 12:28:13,D - Match Matching,nzm_ort,PyPy3 (7.3.0),400,958 Byte,AC,67 ms,73852 KB
+ABC118,2023-03-17 12:24:03,D - Match Matching,nzm_ort,PyPy3 (7.3.0),0,924 Byte,RE,76 ms,73684 KB
+ABC129,2023-03-17 10:02:48,C - Typical Stairs,nzm_ort,PyPy3 (7.3.0),300,528 Byte,AC,168 ms,85448 KB
+ABC129,2023-03-17 10:00:46,C - Typical Stairs,nzm_ort,PyPy3 (7.3.0),0,392 Byte,TLE,2208 ms,80532 KB
+ABC129,2023-03-17 09:59:44,C - Typical Stairs,nzm_ort,PyPy3 (7.3.0),0,445 Byte,TLE,2208 ms,80488 KB
+ABC129,2023-03-17 09:58:09,C - Typical Stairs,nzm_ort,PyPy3 (7.3.0),0,519 Byte,TLE,2208 ms,79884 KB
+ABC135,2023-03-18 23:04:06,A - Harmony,nzm_ort,PyPy3 (7.3.0),100,107 Byte,AC,67 ms,61676 KB
+ABC135,2023-03-18 22:56:18,C - City Savers,nzm_ort,PyPy3 (7.3.0),300,1266 Byte,AC,106 ms,97360 KB
+ABC140,2023-03-18 22:27:08,A - Password,nzm_ort,PyPy3 (7.3.0),100,79 Byte,AC,69 ms,60960 KB
+ABC140,2023-03-18 22:24:42,C - Maximal Value,nzm_ort,PyPy3 (7.3.0),300,272 Byte,AC,108 ms,61396 KB
+ABC140,2023-03-18 21:46:24,C - Maximal Value,nzm_ort,PyPy3 (7.3.0),300,445 Byte,AC,71 ms,61572 KB
+ABC144,2023-03-02 22:09:25,B - 81,nzm_ort,PyPy3 (7.3.0),200,195 Byte,AC,63 ms,61800 KB
+ABC150,2023-03-02 22:11:40,B - Count ABC,nzm_ort,PyPy3 (7.3.0),200,79 Byte,AC,217 ms,60852 KB
+ABC157,2023-02-21 23:33:21,B - Bingo,nzm_ort,Python (3.8.2),200,979 Byte,AC,25 ms,9188 KB
+ABC161,2023-03-08 23:16:55,D - Lunlun Number,nzm_ort,Python (3.8.2),400,1708 Byte,AC,343 ms,18724 KB
+ABC165,2023-02-28 16:00:37,A - We Love Golf,nzm_ort,Python (3.8.2),100,234 Byte,AC,27 ms,9036 KB
+ABC200,2023-05-13 08:49:20,C - Ringo's Favorite Numbers 2,nzm_ort,PyPy3 (7.3.0),300,472 Byte,AC,132 ms,106944 KB
+ABC200,2023-05-13 08:35:24,C - Ringo's Favorite Numbers 2,nzm_ort,PyPy3 (7.3.0),0,360 Byte,TLE,2209 ms,104744 KB
+ABC200,2023-05-13 08:12:23,B - 200th ABC-200,nzm_ort,PyPy3 (7.3.0),200,165 Byte,AC,65 ms,61876 KB
+ABC200,2023-05-13 08:09:01,A - Century,nzm_ort,PyPy3 (7.3.0),100,123 Byte,AC,61 ms,62108 KB
+ABC211,2023-03-17 07:02:55,C - chokudai,nzm_ort,PyPy3 (7.3.0),300,630 Byte,AC,122 ms,106072 KB
+ABC244,2023-05-27 10:46:53,A - Last Letter,nzm_ort,PyPy3 (7.3.0),100,45 Byte,AC,61 ms,61704 KB
+ABC248,2023-05-26 22:44:52,A - Lacked Number,nzm_ort,PyPy3 (7.3.0),100,90 Byte,AC,63 ms,61784 KB
+ABC251,2023-05-21 15:51:48,A - Six Characters,nzm_ort,PyPy3 (7.3.0),100,160 Byte,AC,70 ms,61728 KB
+ABC253,2023-05-06 05:09:50,A - Median?,nzm_ort,PyPy3 (7.3.0),100,101 Byte,AC,66 ms,61764 KB
+ABC254,2023-04-13 23:47:07,A - Last Two Digits,nzm_ort,PyPy3 (7.3.0),100,40 Byte,AC,60 ms,61588 KB
+ABC254,2023-04-13 23:45:55,A - Last Two Digits,nzm_ort,PyPy3 (7.3.0),0,45 Byte,WA,60 ms,61816 KB
+ABC255,2023-05-22 10:14:06,"A - You should output ARC, though this is ABC.",nzm_ort,PyPy3 (7.3.0),100,138 Byte,AC,232 ms,61636 KB
+ABC256,2023-05-18 23:44:34,A - 2^N,nzm_ort,PyPy3 (7.3.0),100,29 Byte,AC,65 ms,61848 KB
+ABC257,2023-05-24 14:04:43,A - A to Z String 2,nzm_ort,PyPy3 (7.3.0),100,159 Byte,AC,61 ms,66196 KB
+ABC258,2023-05-25 10:19:19,A - When?,nzm_ort,PyPy3 (7.3.0),100,146 Byte,AC,60 ms,61712 KB
+ABC260,2023-05-17 09:46:15,A - A Unique Letter,nzm_ort,PyPy3 (7.3.0),100,86 Byte,AC,69 ms,61840 KB
+ABC262,2023-05-19 11:30:06,A - World Cup,nzm_ort,PyPy3 (7.3.0),100,102 Byte,AC,122 ms,61640 KB
+ABC264,2023-05-02 23:53:29,"A - ""atcoder"".substr()",nzm_ort,PyPy3 (7.3.0),100,67 Byte,AC,61 ms,61848 KB
+ABC265,2023-05-20 11:40:24,C - Belt Conveyor,nzm_ort,PyPy3 (7.3.0),300,759 Byte,AC,148 ms,112960 KB
+ABC265,2023-05-20 11:30:20,C - Belt Conveyor,nzm_ort,PyPy3 (7.3.0),0,738 Byte,TLE,2208 ms,74188 KB
+ABC265,2023-05-20 11:11:53,B - Explore,nzm_ort,PyPy3 (7.3.0),200,435 Byte,AC,241 ms,94940 KB
+ABC265,2023-05-20 10:59:25,A - Apple,nzm_ort,PyPy3 (7.3.0),100,163 Byte,AC,64 ms,61900 KB
+ABC266,2023-05-29 08:31:23,B - Modulo Number,nzm_ort,PyPy3 (7.3.0),200,229 Byte,AC,1445 ms,62868 KB
+ABC266,2023-05-16 23:35:41,A - Middle Letter,nzm_ort,PyPy3 (7.3.0),100,49 Byte,AC,67 ms,61616 KB
+ABC267,2023-05-15 08:22:42,B - Split?,nzm_ort,PyPy3 (7.3.0),200,713 Byte,AC,61 ms,61996 KB
+ABC267,2023-05-15 08:09:42,B - Split?,nzm_ort,PyPy3 (7.3.0),0,649 Byte,WA,68 ms,61552 KB
+ABC267,2023-05-15 07:36:06,A - Saturday,nzm_ort,PyPy3 (7.3.0),100,107 Byte,AC,68 ms,61776 KB
+ABC268,2023-05-12 08:12:35,B - Prefix?,nzm_ort,PyPy3 (7.3.0),200,98 Byte,AC,69 ms,61944 KB
+ABC268,2023-05-10 23:33:21,A - Five Integers,nzm_ort,PyPy3 (7.3.0),100,72 Byte,AC,67 ms,61724 KB
+ABC269,2023-05-12 10:36:38,C - Submask,nzm_ort,PyPy3 (7.3.0),300,792 Byte,AC,87 ms,74676 KB
+ABC269,2023-05-08 13:17:04,B - Rectangle Detection,nzm_ort,PyPy3 (7.3.0),200,342 Byte,AC,71 ms,61684 KB
+ABC269,2023-05-08 13:09:12,A - Anyway Takahashi,nzm_ort,PyPy3 (7.3.0),100,97 Byte,AC,90 ms,61612 KB
+ABC270,2023-05-11 10:18:26,B - Hammer,nzm_ort,PyPy3 (7.3.0),200,293 Byte,AC,86 ms,61896 KB
+ABC270,2023-05-09 08:57:34,A - 1-2-4 Test,nzm_ort,PyPy3 (7.3.0),100,46 Byte,AC,61 ms,61492 KB
+ABC271,2023-05-07 07:31:11,B - Maintain Multiple Sequences,nzm_ort,PyPy3 (7.3.0),200,281 Byte,AC,941 ms,116840 KB
+ABC271,2023-05-07 07:25:21,A - 484558,nzm_ort,PyPy3 (7.3.0),100,728 Byte,AC,61 ms,61904 KB
+ABC272,2023-04-29 20:50:16,C - Max Even,nzm_ort,PyPy3 (7.3.0),300,817 Byte,AC,134 ms,107508 KB
+ABC272,2023-04-27 22:37:35,B - Everyone is Friends,nzm_ort,PyPy3 (7.3.0),200,578 Byte,AC,199 ms,71876 KB
+ABC272,2023-04-27 22:28:51,A - Integer Sum,nzm_ort,PyPy3 (7.3.0),100,70 Byte,AC,116 ms,61572 KB
+ABC273,2023-05-05 10:45:08,C - (K+1)-th Largest Number,nzm_ort,PyPy3 (7.3.0),300,438 Byte,AC,253 ms,132048 KB
+ABC273,2023-05-05 09:50:56,B - Broken Rounding,nzm_ort,PyPy3 (7.3.0),200,501 Byte,AC,74 ms,61648 KB
+ABC273,2023-05-04 08:53:39,B - Broken Rounding,nzm_ort,PyPy3 (7.3.0),200,252 Byte,AC,303 ms,77060 KB
+ABC273,2023-04-30 23:27:24,A - A Recursive Function,nzm_ort,PyPy3 (7.3.0),100,119 Byte,AC,70 ms,61684 KB
+ABC274,2023-05-04 07:58:01,C - Ameba,nzm_ort,PyPy3 (7.3.0),300,473 Byte,AC,312 ms,161532 KB
+ABC274,2023-05-04 07:50:11,C - Ameba,nzm_ort,PyPy3 (7.3.0),0,595 Byte,TLE,2210 ms,136040 KB
+ABC274,2023-05-04 07:11:59,B - Line Sensor,nzm_ort,PyPy3 (7.3.0),200,251 Byte,AC,94 ms,74676 KB
+ABC274,2023-05-04 07:06:38,A - Batting Average,nzm_ort,PyPy3 (7.3.0),100,165 Byte,AC,119 ms,61640 KB
+ABC274,2023-05-04 07:03:45,A - Batting Average,nzm_ort,PyPy3 (7.3.0),0,81 Byte,WA,144 ms,61588 KB
+ABC275,2023-05-01 18:59:54,B - ABC-DEF,nzm_ort,PyPy3 (7.3.0),200,138 Byte,AC,150 ms,61596 KB
+ABC275,2023-05-01 18:59:19,B - ABC-DEF,nzm_ort,PyPy3 (7.3.0),200,138 Byte,AC,61 ms,61568 KB
+ABC275,2023-04-14 23:29:26,A - Find Takahashi,nzm_ort,PyPy3 (7.3.0),100,164 Byte,AC,117 ms,61372 KB
+ABC275,2022-10-31 15:30:06,A - Find Takahashi,nzm_ort,PyPy3 (7.3.0),100,255 Byte,AC,60 ms,61908 KB
+ABC275,2022-10-31 15:27:34,A - Find Takahashi,nzm_ort,PyPy3 (7.3.0),0,70 Byte,RE,111 ms,74304 KB
+ABC275,2022-10-31 15:24:51,A - Find Takahashi,nzm_ort,PyPy3 (7.3.0),0,253 Byte,WA,61 ms,61988 KB
+ABC276,2023-04-27 21:56:33,C - Previous Permutation,nzm_ort,PyPy3 (7.3.0),0,341 Byte,TLE,2208 ms,75664 KB
+ABC276,2023-04-12 14:08:29,B - Adjacency List,nzm_ort,PyPy3 (7.3.0),200,292 Byte,AC,342 ms,96500 KB
+ABC276,2023-04-12 13:56:19,A - Rightmost,nzm_ort,PyPy3 (7.3.0),100,171 Byte,AC,60 ms,61764 KB
+ABC277,2023-04-27 20:03:45,C - Ladder Takahashi,nzm_ort,PyPy3 (7.3.0),300,498 Byte,AC,528 ms,171420 KB
+ABC277,2023-04-27 18:47:52,B - Playing Cards Validation,nzm_ort,PyPy3 (7.3.0),200,556 Byte,AC,215 ms,61388 KB
+ABC277,2023-04-27 15:22:22,A - ^{-1},nzm_ort,PyPy3 (7.3.0),100,171 Byte,AC,66 ms,61848 KB
+ABC278,2023-04-02 16:15:49,C - FF,nzm_ort,PyPy3 (7.3.0),300,386 Byte,AC,604 ms,95036 KB
+ABC278,2023-04-02 16:11:46,C - FF,nzm_ort,PyPy3 (7.3.0),0,482 Byte,TLE,2256 ms,1565540 KB
+ABC278,2023-04-02 15:58:40,B - Misjudge the Time,nzm_ort,PyPy3 (7.3.0),200,592 Byte,AC,61 ms,61604 KB
+ABC278,2023-04-02 15:46:39,B - Misjudge the Time,nzm_ort,PyPy3 (7.3.0),0,408 Byte,WA,64 ms,61728 KB
+ABC278,2023-04-02 12:52:35,A - Shift,nzm_ort,PyPy3 (7.3.0),100,140 Byte,AC,93 ms,62076 KB
+ABC279,2023-04-02 11:23:46,C - RANDOM,nzm_ort,PyPy3 (7.3.0),300,578 Byte,AC,736 ms,190720 KB
+ABC279,2023-04-02 10:57:36,B - LOOKUP,nzm_ort,PyPy3 (7.3.0),200,80 Byte,AC,60 ms,61876 KB
+ABC279,2023-04-02 10:48:22,A - wwwvvvvvv,nzm_ort,PyPy3 (7.3.0),100,68 Byte,AC,103 ms,61788 KB
+ABC280,2023-04-01 09:24:09,C - Extra Character,nzm_ort,PyPy3 (7.3.0),300,176 Byte,AC,73 ms,75080 KB
+ABC280,2023-04-01 09:18:26,B - Inverse Prefix Sum,nzm_ort,PyPy3 (7.3.0),200,216 Byte,AC,69 ms,61868 KB
+ABC280,2023-04-01 09:13:42,A - Pawn on a Grid,nzm_ort,PyPy3 (7.3.0),100,195 Byte,AC,61 ms,61856 KB
+ABC281,2023-04-02 10:44:13,A - Count Down,nzm_ort,PyPy3 (7.3.0),100,60 Byte,AC,60 ms,61924 KB
+ABC281,2023-04-01 08:32:14,C - Circular Playlist,nzm_ort,PyPy3 (7.3.0),300,340 Byte,AC,84 ms,84756 KB
+ABC281,2023-04-01 08:29:39,C - Circular Playlist,nzm_ort,PyPy3 (7.3.0),0,338 Byte,RE,101 ms,86192 KB
+ABC281,2023-04-01 08:24:53,C - Circular Playlist,nzm_ort,PyPy3 (7.3.0),0,402 Byte,TLE,2208 ms,85112 KB
+ABC281,2023-03-31 10:47:43,C - Circular Playlist,nzm_ort,Python (3.8.2),0,313 Byte,TLE,2206 ms,20000 KB
+ABC281,2023-03-31 10:39:26,B - Sandwich Number,nzm_ort,Python (3.8.2),200,979 Byte,AC,26 ms,9020 KB
+ABC281,2023-03-31 10:39:03,B - Sandwich Number,nzm_ort,Python (3.8.2),0,977 Byte,RE,27 ms,9108 KB
+ABC281,2023-03-31 10:37:53,B - Sandwich Number,nzm_ort,Python (3.8.2),0,975 Byte,RE,27 ms,8944 KB
+ABC281,2023-03-31 10:37:17,B - Sandwich Number,nzm_ort,Python (3.8.2),0,981 Byte,RE,23 ms,9112 KB
+ABC281,2023-03-31 10:35:58,B - Sandwich Number,nzm_ort,Python (3.8.2),0,979 Byte,RE,28 ms,8992 KB
+ABC281,2023-03-31 10:34:29,B - Sandwich Number,nzm_ort,Python (3.8.2),0,979 Byte,RE,25 ms,9064 KB
+ABC281,2023-03-31 10:28:43,B - Sandwich Number,nzm_ort,Python (3.8.2),0,696 Byte,WA,27 ms,8988 KB
+ABC281,2023-01-28 15:52:55,B - Sandwich Number,nzm_ort,Python (3.8.2),0,498 Byte,RE,21 ms,9092 KB
+ABC281,2023-01-21 00:23:41,B - Sandwich Number,nzm_ort,PyPy3 (7.3.0),0,411 Byte,RE,93 ms,74264 KB
+ABC281,2023-01-21 00:05:00,A - Count Down,nzm_ort,PyPy3 (7.3.0),100,64 Byte,AC,67 ms,61900 KB
+ABC282,2023-03-16 21:48:12,C - String Delimiter,nzm_ort,Python (3.8.2),300,338 Byte,AC,61 ms,10740 KB
+ABC282,2023-01-20 23:34:09,C - String Delimiter,nzm_ort,PyPy3 (7.3.0),300,227 Byte,AC,80 ms,82756 KB
+ABC282,2023-01-20 23:33:49,D - Make Bipartite 2,nzm_ort,PyPy3 (7.3.0),0,227 Byte,RE,95 ms,74748 KB
+ABC282,2023-01-20 23:30:44,A - Generalized ABC,nzm_ort,PyPy3 (7.3.0),0,213 Byte,RE,92 ms,74688 KB
+ABC282,2023-01-20 23:16:18,C - String Delimiter,nzm_ort,PyPy3 (7.3.0),0,236 Byte,TLE,2211 ms,228440 KB
+ABC282,2023-01-20 05:37:53,B - Let's Get a Perfect Score,nzm_ort,PyPy3 (7.3.0),200,460 Byte,AC,61 ms,65380 KB
+ABC282,2023-01-20 05:26:15,A - Generalized ABC,nzm_ort,PyPy3 (7.3.0),100,175 Byte,AC,61 ms,61632 KB
+ABC282,2023-01-02 12:56:19,A - Generalized ABC,nzm_ort,PyPy3 (7.3.0),100,97 Byte,AC,60 ms,61708 KB
+ABC283,2023-04-01 15:55:20,D - Scope,nzm_ort,PyPy3 (7.3.0),400,693 Byte,AC,198 ms,81256 KB
+ABC283,2023-04-01 10:56:00,D - Scope,nzm_ort,PyPy3 (7.3.0),0,622 Byte,RE,74 ms,85552 KB
+ABC283,2023-04-01 10:47:41,D - Scope,nzm_ort,PyPy3 (7.3.0),0,565 Byte,WA,78 ms,86060 KB
+ABC283,2023-04-01 10:16:04,C - Cash Register,nzm_ort,PyPy3 (7.3.0),300,71 Byte,AC,126 ms,72828 KB
+ABC283,2023-04-01 10:12:06,B - First Query Problem,nzm_ort,PyPy3 (7.3.0),200,232 Byte,AC,462 ms,86032 KB
+ABC283,2023-04-01 10:05:56,A - Power,nzm_ort,PyPy3 (7.3.0),100,45 Byte,AC,157 ms,61140 KB
+ABC283,2022-12-30 22:14:35,A - Power,nzm_ort,C++ (GCC 9.2.1),100,229 Byte,AC,9 ms,4060 KB
+ABC283,2022-12-27 08:44:19,C - Cash Register,nzm_ort,PyPy3 (7.3.0),300,102 Byte,AC,121 ms,72788 KB
+ABC283,2022-12-26 22:53:45,Ex - Popcount Sum,nzm_ort,PyPy3 (7.3.0),0,682 Byte,TLE,4439 ms,1181680 KB
+ABC283,2022-12-26 22:37:08,Ex - Popcount Sum,nzm_ort,PyPy3 (7.3.0),0,576 Byte,TLE,4447 ms,1275596 KB
+ABC283,2022-12-26 22:24:20,Ex - Popcount Sum,nzm_ort,PyPy3 (7.3.0),0,550 Byte,WA,61 ms,61740 KB
+ABC283,2022-12-24 22:36:19,C - Cash Register,nzm_ort,PyPy3 (7.3.0),0,581 Byte,WA,154 ms,79072 KB
+ABC283,2022-12-24 22:21:59,C - Cash Register,nzm_ort,PyPy3 (7.3.0),0,1233 Byte,WA,4023 ms,142752 KB
+ABC283,2022-12-24 21:37:49,B - First Query Problem,nzm_ort,PyPy3 (7.3.0),200,327 Byte,AC,300 ms,109332 KB
+ABC283,2022-12-24 21:34:13,B - First Query Problem,nzm_ort,PyPy3 (7.3.0),0,580 Byte,RE,130 ms,74676 KB
+ABC283,2022-12-24 21:22:20,B - First Query Problem,nzm_ort,PyPy3 (7.3.0),0,347 Byte,RE,255 ms,102400 KB
+ABC283,2022-12-24 21:03:39,A - Power,nzm_ort,PyPy3 (7.3.0),100,47 Byte,AC,65 ms,61608 KB
+ABC284,2023-03-16 23:27:45,C - Count Connected Components,nzm_ort,Python (3.8.2),300,2191 Byte,AC,36 ms,9388 KB
+ABC284,2023-03-16 21:11:43,D - Happy New Year 2023,nzm_ort,Python (3.8.2),400,353 Byte,AC,1477 ms,9212 KB
+ABC284,2023-03-16 21:07:04,D - Happy New Year 2023,nzm_ort,Python (3.8.2),0,353 Byte,WA,1474 ms,9360 KB
+ABC284,2023-03-16 21:02:17,D - Happy New Year 2023,nzm_ort,Python (3.8.2),0,395 Byte,WA,1479 ms,9360 KB
+ABC284,2023-03-16 21:01:41,D - Happy New Year 2023,nzm_ort,Python (3.8.2),0,397 Byte,WA,285 ms,9320 KB
+ABC284,2023-03-16 20:57:47,D - Happy New Year 2023,nzm_ort,Python (3.8.2),0,357 Byte,WA,2594 ms,9304 KB
+ABC284,2023-03-15 21:48:09,A - Sequence of Strings,nzm_ort,Python (3.8.2),100,165 Byte,AC,23 ms,9068 KB
+ABC284,2023-03-11 20:23:26,C - Count Connected Components,nzm_ort,PyPy3 (7.3.0),300,666 Byte,AC,95 ms,75364 KB
+ABC284,2023-03-11 20:20:26,C - Count Connected Components,nzm_ort,PyPy3 (7.3.0),0,718 Byte,TLE,2222 ms,551636 KB
+ABC284,2023-03-11 20:18:19,C - Count Connected Components,nzm_ort,PyPy3 (7.3.0),0,683 Byte,TLE,2222 ms,551936 KB
+ABC284,2023-03-11 19:55:00,C - Count Connected Components,nzm_ort,PyPy3 (7.3.0),0,660 Byte,TLE,2226 ms,685496 KB
+ABC284,2023-03-11 19:54:33,C - Count Connected Components,nzm_ort,Python (3.8.2),0,660 Byte,TLE,2207 ms,45804 KB
+ABC284,2023-03-08 23:43:04,C - Count Connected Components,nzm_ort,Python (3.8.2),300,596 Byte,AC,37 ms,9116 KB
+ABC284,2023-01-08 13:25:46,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,329 Byte,WA,451 ms,217028 KB
+ABC284,2023-01-08 13:24:08,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,331 Byte,WA,466 ms,216436 KB
+ABC284,2023-01-08 13:23:15,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,351 Byte,RE,100 ms,74212 KB
+ABC284,2023-01-07 23:50:58,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,532 Byte,TLE,3309 ms,62960 KB
+ABC284,2023-01-07 23:46:31,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,523 Byte,WA,3309 ms,81128 KB
+ABC284,2023-01-07 22:39:08,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,657 Byte,TLE,3310 ms,62692 KB
+ABC284,2023-01-07 22:18:53,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,629 Byte,TLE,3310 ms,62560 KB
+ABC284,2023-01-07 22:15:47,D - Happy New Year 2023,nzm_ort,PyPy3 (7.3.0),0,609 Byte,TLE,3310 ms,62868 KB
+ABC284,2023-01-07 21:43:08,C - Count Connected Components,nzm_ort,PyPy3 (7.3.0),0,392 Byte,RE,90 ms,74532 KB
+ABC284,2023-01-07 21:16:29,B - Multi Test Cases,nzm_ort,PyPy3 (7.3.0),200,282 Byte,AC,65 ms,67724 KB
+ABC284,2023-01-07 21:10:40,A - Sequence of Strings,nzm_ort,PyPy3 (7.3.0),100,208 Byte,AC,64 ms,61768 KB
+ABC284,2023-01-07 21:07:53,A - Sequence of Strings,nzm_ort,PyPy3 (7.3.0),0,132 Byte,WA,87 ms,61604 KB
+ABC284,2023-01-07 21:06:09,A - Sequence of Strings,nzm_ort,PyPy3 (7.3.0),0,137 Byte,WA,75 ms,61608 KB
+ABC285,2023-01-18 01:23:45,D - Change Usernames,nzm_ort,PyPy3 (7.3.0),400,898 Byte,AC,501 ms,194596 KB
+ABC285,2023-01-15 22:36:34,D - Change Usernames,nzm_ort,PyPy3 (7.3.0),0,821 Byte,WA,2209 ms,111192 KB
+ABC285,2023-01-15 22:15:23,D - Change Usernames,nzm_ort,PyPy3 (7.3.0),0,397 Byte,WA,364 ms,135460 KB
+ABC285,2023-01-15 22:11:42,D - Change Usernames,nzm_ort,PyPy3 (7.3.0),0,370 Byte,WA,346 ms,135132 KB
+ABC285,2023-01-15 21:50:55,D - Change Usernames,nzm_ort,PyPy3 (7.3.0),0,369 Byte,TLE,2209 ms,114008 KB
+ABC285,2023-01-15 21:41:11,C - abc285_brutmhyhiizp,nzm_ort,PyPy3 (7.3.0),300,280 Byte,AC,61 ms,61712 KB
+ABC285,2023-01-15 21:26:03,B - Longest Uncommon Prefix,nzm_ort,PyPy3 (7.3.0),200,249 Byte,AC,145 ms,68876 KB
+ABC285,2023-01-15 21:03:01,A - Edge Checker 2,nzm_ort,PyPy3 (7.3.0),100,104 Byte,AC,61 ms,61560 KB
+ABC286,2023-01-22 20:52:01,C - Rotate and Palindrome,nzm_ort,PyPy3 (7.3.0),300,331 Byte,AC,299 ms,77240 KB
+ABC286,2023-01-22 20:51:39,A - Range Swap,nzm_ort,PyPy3 (7.3.0),0,332 Byte,RE,178 ms,74620 KB
+ABC286,2023-01-22 20:51:03,C - Rotate and Palindrome,nzm_ort,Python (3.8.2),0,332 Byte,TLE,2206 ms,9096 KB
+ABC286,2023-01-22 20:50:30,D - Money in Hand,nzm_ort,Python (3.8.2),400,482 Byte,AC,2432 ms,9216 KB
+ABC286,2023-01-21 21:08:50,B - Cat,nzm_ort,Python (3.8.2),200,69 Byte,AC,24 ms,9068 KB
+ABC286,2023-01-21 21:06:26,A - Range Swap,nzm_ort,Python (3.8.2),100,192 Byte,AC,25 ms,9044 KB
+ABC287,2023-04-01 10:00:13,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),300,1083 Byte,AC,860 ms,328684 KB
+ABC287,2023-04-01 09:58:39,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),300,1169 Byte,AC,788 ms,327916 KB
+ABC287,2023-04-01 09:56:17,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),0,772 Byte,WA,2260 ms,1426752 KB
+ABC287,2023-04-01 09:55:36,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),0,1103 Byte,WA,2249 ms,1327604 KB
+ABC287,2023-04-01 09:54:54,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),0,1055 Byte,RE,535 ms,142256 KB
+ABC287,2023-04-01 09:38:25,C - Path Graph?,nzm_ort,PyPy3 (7.3.0),0,724 Byte,RE,509 ms,142256 KB
+ABC287,2023-03-19 00:30:22,C - Path Graph?,nzm_ort,Python (3.8.2),0,691 Byte,RE,707 ms,44616 KB
+ABC287,2023-01-29 11:40:23,D - Match or Not,nzm_ort,Python (3.8.2),400,477 Byte,AC,161 ms,16888 KB
+ABC287,2023-01-29 10:22:10,D - Match or Not,nzm_ort,Python (3.8.2),0,906 Byte,WA,2206 ms,13048 KB
+ABC287,2023-01-29 10:19:09,D - Match or Not,nzm_ort,Python (3.8.2),0,895 Byte,WA,2206 ms,13172 KB
+ABC287,2023-01-29 10:12:26,D - Match or Not,nzm_ort,Python (3.8.2),0,860 Byte,WA,2206 ms,13096 KB
+ABC287,2023-01-29 10:08:26,D - Match or Not,nzm_ort,Python (3.8.2),0,928 Byte,WA,2206 ms,12656 KB
+ABC287,2023-01-28 22:38:17,D - Match or Not,nzm_ort,Python (3.8.2),0,595 Byte,TLE,2206 ms,10420 KB
+ABC287,2023-01-28 22:34:32,D - Match or Not,nzm_ort,Python (3.8.2),0,537 Byte,TLE,2206 ms,10328 KB
+ABC287,2023-01-28 22:31:21,D - Match or Not,nzm_ort,Python (3.8.2),0,628 Byte,TLE,2206 ms,10432 KB
+ABC287,2023-01-28 22:29:10,D - Match or Not,nzm_ort,PyPy3 (7.3.0),0,628 Byte,TLE,2211 ms,168992 KB
+ABC287,2023-01-28 22:27:06,D - Match or Not,nzm_ort,Python (3.8.2),0,556 Byte,TLE,2206 ms,10500 KB
+ABC287,2023-01-28 22:26:17,D - Match or Not,nzm_ort,Python (3.8.2),0,556 Byte,RE,2206 ms,10340 KB
+ABC287,2023-01-28 22:19:22,D - Match or Not,nzm_ort,Python (3.8.2),0,540 Byte,WA,2206 ms,10408 KB
+ABC287,2023-01-28 21:10:45,B - Postal Card,nzm_ort,Python (3.8.2),200,231 Byte,AC,73 ms,9096 KB
+ABC287,2023-01-28 21:05:47,A - Majority,nzm_ort,Python (3.8.2),100,153 Byte,AC,25 ms,9052 KB
+ABC288,2023-03-18 23:26:06,C - Don’t be cycle,nzm_ort,Python (3.8.2),300,2418 Byte,AC,767 ms,26956 KB
+ABC288,2023-02-04 21:12:28,B - Qualification Contest,nzm_ort,Python (3.8.2),200,141 Byte,AC,23 ms,9000 KB
+ABC288,2023-02-04 21:04:01,A - Many A+B Problems,nzm_ort,Python (3.8.2),100,153 Byte,AC,33 ms,9344 KB
+ABC289,2023-03-18 16:55:53,C - Coverage,nzm_ort,PyPy3 (7.3.0),300,708 Byte,AC,71 ms,73992 KB
+ABC289,2023-03-18 16:54:45,C - Coverage,nzm_ort,PyPy3 (7.3.0),0,708 Byte,RE,97 ms,74640 KB
+ABC289,2023-03-17 16:02:19,B - レ,nzm_ort,PyPy3 (7.3.0),200,527 Byte,AC,63 ms,62076 KB
+ABC289,2023-02-11 22:29:16,C - Coverage,nzm_ort,Python (3.8.2),300,630 Byte,AC,29 ms,9164 KB
+ABC289,2023-02-11 22:20:52,B - レ,nzm_ort,Python (3.8.2),200,1460 Byte,AC,27 ms,9184 KB
+ABC289,2023-02-11 22:18:18,B - レ,nzm_ort,Python (3.8.2),0,1382 Byte,WA,28 ms,9252 KB
+ABC289,2023-02-11 21:03:03,A - flip,nzm_ort,Python (3.8.2),100,98 Byte,AC,25 ms,8884 KB
+ABC290,2023-03-17 15:40:55,C - Max MEX,nzm_ort,PyPy3 (7.3.0),300,268 Byte,AC,207 ms,159264 KB
+ABC290,2023-02-19 22:53:08,D - Marking,nzm_ort,Python (3.8.2),0,1070 Byte,RE,2249 ms,1466360 KB
+ABC290,2023-02-19 22:03:19,C - Max MEX,nzm_ort,Python (3.8.2),300,375 Byte,AC,298 ms,46036 KB
+ABC290,2023-02-19 22:00:46,C - Max MEX,nzm_ort,Python (3.8.2),0,374 Byte,WA,268 ms,46120 KB
+ABC290,2023-02-19 21:43:10,C - Max MEX,nzm_ort,Python (3.8.2),0,345 Byte,WA,274 ms,46100 KB
+ABC290,2023-02-19 21:29:03,C - Max MEX,nzm_ort,Python (3.8.2),0,341 Byte,WA,286 ms,45912 KB
+ABC290,2023-02-19 21:27:11,C - Max MEX,nzm_ort,Python (3.8.2),0,345 Byte,WA,291 ms,46068 KB
+ABC290,2023-02-19 21:22:51,C - Max MEX,nzm_ort,Python (3.8.2),0,345 Byte,WA,300 ms,45984 KB
+ABC290,2023-02-19 21:18:19,C - Max MEX,nzm_ort,Python (3.8.2),0,287 Byte,WA,250 ms,45896 KB
+ABC290,2023-02-19 21:09:44,B - Qual B,nzm_ort,Python (3.8.2),200,207 Byte,AC,27 ms,9072 KB
+ABC290,2023-02-19 21:04:09,A - Contest Result,nzm_ort,Python (3.8.2),100,178 Byte,AC,22 ms,9136 KB
+ABC291,2023-03-17 08:20:22,D - Flip Cards,nzm_ort,PyPy3 (7.3.0),400,851 Byte,AC,411 ms,136760 KB
+ABC291,2023-03-17 08:19:15,D - Flip Cards,nzm_ort,PyPy3 (7.3.0),0,791 Byte,TLE,2270 ms,2132996 KB
+ABC291,2023-03-01 21:06:31,A - camel Case,nzm_ort,C++ (GCC 9.2.1),100,273 Byte,AC,7 ms,3592 KB
+ABC291,2023-03-01 21:04:47,A - camel Case,nzm_ort,C++ (GCC 9.2.1),0,262 Byte,WA,8 ms,3588 KB
+ABC291,2023-02-26 22:45:27,C - LRUD Instructions 2,nzm_ort,Python (3.8.2),300,610 Byte,AC,154 ms,36488 KB
+ABC291,2023-02-26 22:33:15,C - LRUD Instructions 2,nzm_ort,Python (3.8.2),0,318 Byte,WA,2206 ms,9304 KB
+ABC291,2023-02-26 22:23:33,C - LRUD Instructions 2,nzm_ort,Python (3.8.2),0,355 Byte,WA,2206 ms,9480 KB
+ABC291,2023-02-26 22:18:54,C - LRUD Instructions 2,nzm_ort,Python (3.8.2),0,385 Byte,WA,2206 ms,9436 KB
+ABC291,2023-02-26 21:29:55,C - LRUD Instructions 2,nzm_ort,PyPy3 (7.3.0),0,484 Byte,TLE,2208 ms,74644 KB
+ABC291,2023-02-26 21:26:35,C - LRUD Instructions 2,nzm_ort,Python (3.8.2),0,488 Byte,TLE,2206 ms,10884 KB
+ABC291,2023-02-26 21:07:28,B - Trimmed Mean,nzm_ort,Python (3.8.2),200,122 Byte,AC,25 ms,9060 KB
+ABC291,2023-02-26 21:02:28,A - camel Case,nzm_ort,Python (3.8.2),100,103 Byte,AC,23 ms,8996 KB
+ABC292,2023-03-13 14:04:40,D - Unicyclic Components,nzm_ort,Python (3.8.2),400,2268 Byte,AC,821 ms,93400 KB
+ABC292,2023-03-13 14:02:25,D - Unicyclic Components,nzm_ort,Python (3.8.2),0,2092 Byte,TLE,2208 ms,93548 KB
+ABC292,2023-03-12 22:56:18,C - Four Variables,nzm_ort,PyPy3 (7.3.0),300,309 Byte,AC,100 ms,74884 KB
+ABC292,2023-03-12 22:55:45,C - Four Variables,nzm_ort,Python (3.8.2),300,309 Byte,AC,654 ms,10408 KB
+ABC292,2023-03-12 22:49:46,C - Four Variables,nzm_ort,Python (3.8.2),0,505 Byte,RE,2292 ms,3095328 KB
+ABC292,2023-03-12 22:43:56,C - Four Variables,nzm_ort,PyPy3 (7.3.0),300,859 Byte,AC,1081 ms,85484 KB
+ABC292,2023-03-12 22:43:27,C - Four Variables,nzm_ort,Python (3.8.2),0,859 Byte,TLE,2206 ms,9988 KB
+ABC292,2023-03-04 22:57:48,A - CAPS LOCK,nzm_ort,Vim (8.2.0460),100,4 Byte,AC,92 ms,11344 KB
+ABC292,2023-03-04 22:48:13,C - Four Variables,nzm_ort,Python (3.8.2),300,393 Byte,AC,877 ms,10472 KB
+ABC292,2023-03-04 22:34:59,D - Unicyclic Components,nzm_ort,Python (3.8.2),0,1061 Byte,RE,2207 ms,52340 KB
+ABC292,2023-03-04 22:08:39,C - Four Variables,nzm_ort,PyPy3 (7.3.0),300,1764 Byte,AC,834 ms,80644 KB
+ABC292,2023-03-04 22:07:59,C - Four Variables,nzm_ort,Python (3.8.2),0,962 Byte,WA,2206 ms,10280 KB
+ABC292,2023-03-04 22:06:42,C - Four Variables,nzm_ort,Python (3.8.2),0,952 Byte,RE,2206 ms,10184 KB
+ABC292,2023-03-04 22:00:49,C - Four Variables,nzm_ort,Python (3.8.2),0,1764 Byte,TLE,2206 ms,10320 KB
+ABC292,2023-03-04 21:08:31,B - Yellow and Red Card,nzm_ort,Python (3.8.2),200,325 Byte,AC,29 ms,9060 KB
+ABC292,2023-03-04 21:00:59,A - CAPS LOCK,nzm_ort,Python (3.8.2),100,31 Byte,AC,24 ms,9016 KB
+ABC293,2023-03-16 23:11:08,D - Tying Rope,nzm_ort,Python (3.8.2),400,2222 Byte,AC,803 ms,18800 KB
+ABC293,2023-03-16 23:09:08,D - Tying Rope,nzm_ort,Python (3.8.2),0,2174 Byte,RE,24 ms,9136 KB
+ABC293,2023-03-16 23:08:21,D - Tying Rope,nzm_ort,Python (3.8.2),0,2220 Byte,RE,22 ms,9000 KB
+ABC293,2023-03-16 23:06:08,D - Tying Rope,nzm_ort,Python (3.8.2),0,2152 Byte,RE,26 ms,8896 KB
+ABC293,2023-03-12 21:30:13,C - Make Takahashi Happy,nzm_ort,Python (3.8.2),300,695 Byte,AC,219 ms,9088 KB
+ABC293,2023-03-12 20:34:52,B - Call the ID Number,nzm_ort,Python (3.8.2),200,325 Byte,AC,180 ms,34760 KB
+ABC293,2023-03-12 20:32:51,A - Swap Odd and Even,nzm_ort,Python (3.8.2),100,104 Byte,AC,28 ms,8956 KB
+ABC293,2023-03-11 22:22:56,C - Make Takahashi Happy,nzm_ort,Python (3.8.2),0,1007 Byte,TLE,2273 ms,1763384 KB
+ABC293,2023-03-11 21:16:31,B - Call the ID Number,nzm_ort,PyPy3 (7.3.0),200,325 Byte,AC,140 ms,118620 KB
+ABC293,2023-03-11 21:08:31,A - Swap Odd and Even,nzm_ort,PyPy3 (7.3.0),100,243 Byte,AC,70 ms,61756 KB
+ABC294,2023-03-19 23:32:19,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,429 Byte,TLE,2208 ms,102652 KB
+ABC294,2023-03-19 23:31:52,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,427 Byte,RE,122 ms,98292 KB
+ABC294,2023-03-19 23:01:36,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),300,260 Byte,AC,282 ms,125932 KB
+ABC294,2023-03-19 22:24:13,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,470 Byte,TLE,2208 ms,104044 KB
+ABC294,2023-03-19 22:22:16,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,416 Byte,TLE,2211 ms,152580 KB
+ABC294,2023-03-19 21:57:46,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,415 Byte,TLE,2210 ms,135664 KB
+ABC294,2023-03-19 21:51:22,C - Merge Sequences,nzm_ort,Python (3.8.2),0,414 Byte,TLE,2206 ms,24444 KB
+ABC294,2023-03-19 21:49:34,D - Bank,nzm_ort,PyPy3 (7.3.0),0,911 Byte,TLE,2209 ms,106932 KB
+ABC294,2023-03-19 21:24:56,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,414 Byte,TLE,2209 ms,99052 KB
+ABC294,2023-03-19 21:21:28,C - Merge Sequences,nzm_ort,PyPy3 (7.3.0),0,421 Byte,TLE,2210 ms,151140 KB
+ABC294,2023-03-19 21:07:49,B - ASCII Art,nzm_ort,Python (3.8.2),200,344 Byte,AC,29 ms,9084 KB
+ABC294,2023-03-19 21:01:20,A - Filter,nzm_ort,Python (3.8.2),100,158 Byte,AC,24 ms,8932 KB
+ABC295,2023-03-27 11:52:04,C - Socks,nzm_ort,PyPy3 (7.3.0),300,237 Byte,AC,270 ms,203248 KB
+ABC295,2023-03-27 11:42:34,B - Bombs,nzm_ort,PyPy3 (7.3.0),200,844 Byte,AC,78 ms,73824 KB
+ABC295,2023-03-27 11:09:09,A - Probably English,nzm_ort,PyPy3 (7.3.0),100,193 Byte,AC,213 ms,61632 KB
+ABC296,2023-04-21 12:22:22,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,475 Byte,WA,316 ms,105464 KB
+ABC296,2023-04-21 12:20:48,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,455 Byte,WA,2209 ms,104044 KB
+ABC296,2023-04-21 12:18:05,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,379 Byte,WA,117 ms,105136 KB
+ABC296,2023-04-21 12:13:23,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,338 Byte,WA,137 ms,124444 KB
+ABC296,2023-04-21 12:09:33,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,334 Byte,WA,139 ms,123844 KB
+ABC296,2023-04-02 10:14:32,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,286 Byte,WA,130 ms,65488 KB
+ABC296,2023-04-02 10:13:12,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,271 Byte,WA,76 ms,64952 KB
+ABC296,2023-04-02 10:11:00,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,271 Byte,WA,190 ms,65452 KB
+ABC296,2023-04-02 10:09:58,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,270 Byte,WA,78 ms,64856 KB
+ABC296,2023-04-01 23:01:11,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,271 Byte,WA,86 ms,65280 KB
+ABC296,2023-04-01 22:59:07,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,271 Byte,WA,88 ms,65392 KB
+ABC296,2023-04-01 22:57:52,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,269 Byte,WA,82 ms,65432 KB
+ABC296,2023-04-01 22:55:45,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,265 Byte,WA,79 ms,65028 KB
+ABC296,2023-04-01 22:54:15,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,245 Byte,WA,105 ms,64400 KB
+ABC296,2023-04-01 22:36:38,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,398 Byte,WA,2207 ms,65164 KB
+ABC296,2023-04-01 22:34:26,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,454 Byte,WA,2207 ms,64044 KB
+ABC296,2023-04-01 22:30:01,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,391 Byte,TLE,2207 ms,65532 KB
+ABC296,2023-04-01 22:27:31,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,375 Byte,WA,2207 ms,65560 KB
+ABC296,2023-04-01 22:26:22,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,379 Byte,WA,2207 ms,65236 KB
+ABC296,2023-04-01 22:20:22,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,301 Byte,TLE,2207 ms,65772 KB
+ABC296,2023-04-01 22:19:16,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,326 Byte,WA,2207 ms,65860 KB
+ABC296,2023-04-01 22:17:29,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,328 Byte,WA,2207 ms,65824 KB
+ABC296,2023-04-01 22:09:10,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,303 Byte,WA,2207 ms,66112 KB
+ABC296,2023-04-01 22:03:06,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,372 Byte,TLE,2207 ms,66064 KB
+ABC296,2023-04-01 21:57:42,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,311 Byte,TLE,2207 ms,67152 KB
+ABC296,2023-04-01 21:53:41,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,335 Byte,TLE,2207 ms,68648 KB
+ABC296,2023-04-01 21:50:31,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,291 Byte,TLE,2207 ms,68624 KB
+ABC296,2023-04-01 21:48:53,D - M<=ab,nzm_ort,PyPy3 (7.3.0),0,286 Byte,TLE,2207 ms,68432 KB
+ABC296,2023-04-01 21:40:16,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),300,272 Byte,AC,132 ms,114696 KB
+ABC296,2023-04-01 21:38:04,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,287 Byte,RE,169 ms,115124 KB
+ABC296,2023-04-01 21:32:05,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,304 Byte,TLE,2209 ms,104128 KB
+ABC296,2023-04-01 21:25:23,C - Gap Existence,nzm_ort,PyPy3 (7.3.0),0,345 Byte,WA,2239 ms,966424 KB
+ABC296,2023-04-01 21:17:08,B - Chessboard,nzm_ort,PyPy3 (7.3.0),200,332 Byte,AC,79 ms,61600 KB
+ABC296,2023-04-01 21:15:45,B - Chessboard,nzm_ort,PyPy3 (7.3.0),0,332 Byte,WA,71 ms,61792 KB
+ABC296,2023-04-01 21:08:50,A - Alternately,nzm_ort,PyPy3 (7.3.0),100,225 Byte,AC,90 ms,61648 KB
+ABC296,2023-04-01 21:07:17,A - Alternately,nzm_ort,PyPy3 (7.3.0),0,229 Byte,RE,186 ms,74656 KB
+ABC296,2023-04-01 21:05:27,A - Alternately,nzm_ort,PyPy3 (7.3.0),0,225 Byte,WA,62 ms,61504 KB
+ABC296,2023-04-01 21:03:19,A - Alternately,nzm_ort,PyPy3 (7.3.0),0,193 Byte,WA,71 ms,61500 KB
+ABC297,2023-04-09 21:33:34,D - Count Subtractions,nzm_ort,PyPy3 (7.3.0),400,409 Byte,AC,66 ms,61856 KB
+ABC297,2023-04-09 21:16:26,D - Count Subtractions,nzm_ort,PyPy3 (7.3.0),0,181 Byte,TLE,2207 ms,62568 KB
+ABC297,2023-04-09 21:13:23,C - PC on the Table,nzm_ort,PyPy3 (7.3.0),300,222 Byte,AC,118 ms,62520 KB
+ABC297,2023-04-09 21:08:17,B - chess960,nzm_ort,PyPy3 (7.3.0),200,388 Byte,AC,70 ms,61816 KB
+ABC297,2023-04-09 21:03:18,A - Double Click,nzm_ort,PyPy3 (7.3.0),100,272 Byte,AC,62 ms,61720 KB
+ABC298,2023-04-21 12:07:16,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,924 Byte,RE,179 ms,74636 KB
+ABC298,2023-04-21 12:05:39,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,1827 Byte,WA,2216 ms,351224 KB
+ABC298,2023-04-15 22:20:12,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,364 Byte,TLE,3313 ms,221840 KB
+ABC298,2023-04-15 22:14:27,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,364 Byte,TLE,3312 ms,220924 KB
+ABC298,2023-04-15 22:12:30,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,364 Byte,TLE,3311 ms,221364 KB
+ABC298,2023-04-15 22:03:32,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,298 Byte,TLE,3316 ms,228652 KB
+ABC298,2023-04-15 22:03:03,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,333 Byte,RE,824 ms,119384 KB
+ABC298,2023-04-15 21:59:24,D - Writing a Numeral,nzm_ort,PyPy3 (7.3.0),0,298 Byte,TLE,3316 ms,228796 KB
+ABC298,2023-04-15 21:54:58,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),300,678 Byte,AC,1341 ms,126772 KB
+ABC298,2023-04-15 21:53:20,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,702 Byte,TLE,2209 ms,121912 KB
+ABC298,2023-04-15 21:50:26,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,672 Byte,TLE,2209 ms,124368 KB
+ABC298,2023-04-15 21:47:32,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,642 Byte,WA,3374 ms,237104 KB
+ABC298,2023-04-15 21:42:59,C - Cards Query Problem,nzm_ort,PyPy3 (7.3.0),0,516 Byte,TLE,2208 ms,98772 KB
+ABC298,2023-04-15 21:34:38,B - Coloring Matrix,nzm_ort,PyPy3 (7.3.0),200,1470 Byte,AC,87 ms,74752 KB
+ABC298,2023-04-15 21:02:34,A - Job Interview,nzm_ort,PyPy3 (7.3.0),100,212 Byte,AC,74 ms,61568 KB
+ABC299,2023-04-22 21:26:09,C - Dango,nzm_ort,PyPy3 (7.3.0),300,191 Byte,AC,66 ms,70268 KB
+ABC299,2023-04-22 21:24:03,C - Dango,nzm_ort,PyPy3 (7.3.0),0,146 Byte,WA,68 ms,78532 KB
+ABC299,2023-04-22 21:15:15,B - Trick Taking,nzm_ort,PyPy3 (7.3.0),200,635 Byte,AC,150 ms,131592 KB
+ABC299,2023-04-22 21:03:26,A - Treasure Chest,nzm_ort,PyPy3 (7.3.0),100,236 Byte,AC,61 ms,61560 KB
+ABC300,2023-05-01 18:52:21,C - Cross,nzm_ort,PyPy3 (7.3.0),300,1657 Byte,AC,78 ms,73888 KB
+ABC300,2023-05-01 18:51:49,C - Cross,nzm_ort,PyPy3 (7.3.0),300,1682 Byte,AC,79 ms,72920 KB
+ABC300,2023-05-01 17:30:15,B - Same Map in the RPG World,nzm_ort,PyPy3 (7.3.0),200,768 Byte,AC,173 ms,73188 KB
+ABC300,2023-05-01 17:21:04,B - Same Map in the RPG World,nzm_ort,PyPy3 (7.3.0),200,834 Byte,AC,65 ms,70516 KB
+ABC300,2023-04-29 21:51:41,B - Same Map in the RPG World,nzm_ort,PyPy3 (7.3.0),200,919 Byte,AC,68 ms,74088 KB
+ABC300,2023-04-29 21:48:43,B - Same Map in the RPG World,nzm_ort,PyPy3 (7.3.0),0,833 Byte,WA,76 ms,74256 KB
+ABC300,2023-04-29 21:01:39,A - N-choice question,nzm_ort,PyPy3 (7.3.0),100,168 Byte,AC,67 ms,61640 KB
+ABC301,2023-05-14 10:44:34,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),300,2326 Byte,AC,90 ms,74748 KB
+ABC301,2023-05-14 10:33:53,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,1866 Byte,WA,91 ms,74584 KB
+ABC301,2023-05-14 10:04:31,B - Fill the Gaps,nzm_ort,PyPy3 (7.3.0),200,325 Byte,AC,85 ms,74708 KB
+ABC301,2023-05-14 09:55:02,A - Overall Winner,nzm_ort,PyPy3 (7.3.0),100,352 Byte,AC,64 ms,61928 KB
+ABC301,2023-05-13 22:44:59,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,932 Byte,WA,90 ms,74484 KB
+ABC301,2023-05-13 22:36:25,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,788 Byte,WA,90 ms,74528 KB
+ABC301,2023-05-13 22:27:33,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,672 Byte,WA,90 ms,74548 KB
+ABC301,2023-05-13 21:49:21,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,387 Byte,WA,2212 ms,228224 KB
+ABC301,2023-05-13 21:39:02,C - AtCoder Cards,nzm_ort,PyPy3 (7.3.0),0,365 Byte,WA,2212 ms,228276 KB
+ABC301,2023-05-13 21:27:29,B - Fill the Gaps,nzm_ort,PyPy3 (7.3.0),200,555 Byte,AC,85 ms,74916 KB
+ABC301,2023-05-13 21:19:47,B - Fill the Gaps,nzm_ort,PyPy3 (7.3.0),0,576 Byte,TLE,2221 ms,686696 KB
+ABC301,2023-05-13 21:05:14,A - Overall Winner,nzm_ort,PyPy3 (7.3.0),100,405 Byte,AC,65 ms,61908 KB
+ABC302,2023-05-20 22:33:54,D - Impartial Gift,nzm_ort,PyPy3 (7.3.0),0,859 Byte,WA,2208 ms,132096 KB
+ABC302,2023-05-20 22:23:58,D - Impartial Gift,nzm_ort,PyPy3 (7.3.0),0,528 Byte,TLE,2209 ms,130784 KB
+ABC302,2023-05-20 22:11:13,D - Impartial Gift,nzm_ort,PyPy3 (7.3.0),0,391 Byte,TLE,2209 ms,130672 KB
+ABC302,2023-05-20 22:07:29,D - Impartial Gift,nzm_ort,PyPy3 (7.3.0),0,380 Byte,TLE,2223 ms,673064 KB
+ABC302,2023-05-20 21:57:05,C - Almost Equal,nzm_ort,PyPy3 (7.3.0),250,974 Byte,AC,101 ms,80380 KB
+ABC302,2023-05-20 21:34:57,B - Find snuke,nzm_ort,PyPy3 (7.3.0),250,1554 Byte,AC,90 ms,74184 KB
+ABC302,2023-05-20 21:05:28,A - Attack,nzm_ort,PyPy3 (7.3.0),100,165 Byte,AC,106 ms,61716 KB
+ABC303,2023-05-28 09:49:35,A - Similar String,nzm_ort,PyPy3 (7.3.0),100,312 Byte,AC,61 ms,61788 KB

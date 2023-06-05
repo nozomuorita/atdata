@@ -1,0 +1,133 @@
+.logo{
+    height: 80px;
+}
+.title1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1vw;
+}
+.title2{
+    font-size: 25px;
+    font-family: 'メイリオ';
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1vw;
+    padding-top: 25px;
+}
+.head1{
+    display: flex;
+    justify-content: start;
+    width: 50vw;
+}
+.header{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.head2{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 2vw;
+    height: 80px;
+}
+.h{
+    height: 10vh;
+}
+.home{
+    font-size: 20px;
+    
+}
+.menu-theme{
+    margin-right: 10px;
+}
+.settings{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 1150px;
+}
+.setting-item{
+    font-size: 20px;
+}
+.list-item{
+    width: 200px;
+    margin-bottom: 1px;
+
+}
+.table-header{
+    text-align: center;
+}
+.table2{
+    margin-top: 0px;
+}
+.td{
+    text-align: center;
+}
+.col-table{
+    margin-top: 65px;
+    height: 70vh;
+    overflow: scroll;
+}
+/* ライバルとの時*/
+.tab1-fig-contena{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    height: 100%;
+}
+.tab1-fig{
+    width: 39vw;
+    height: 40vh;
+}
+/*---------------------*/
+
+.bar-rival{
+    height: 40px;
+    text-align: right;
+    padding-right: 10px;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bar-you{
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.battle-bar{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    height: 40px;
+}
+.battle-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.win-lose{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cards{
+    height: 16vh;
+    width: 39vw;
+}
+.link{
+    text-decoration: none;
+}
+.na_text{
+    font-family: 'Times New Roman', Times, serif;
+}
+.na_input{
+    width: 60%;
+}
